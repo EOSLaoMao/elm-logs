@@ -1,6 +1,6 @@
 [
     {
-      "origin": ["https://*.eoslaomao.com"],
+      "origin": ["https://*.eoslaomao.com", "https://eoslaomao.com"],
       "responseHeader": ["Content-Type"],
       "method": ["GET", "HEAD", "DELETE"],
       "maxAgeSeconds": 3600
